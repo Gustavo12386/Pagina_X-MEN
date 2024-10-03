@@ -15,7 +15,7 @@ tem o intuito de mostrar personagens do X-MEN com nome, imagem e descrição.
 
 # Autor
 
-- Gustavo Viana 
+- Gustavo Calderaro
 
 - https://www.linkedin.com/in/gustavo-viana-95206520a/
 
